@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://tasteful.netlify.com/"
 languageCode = "en-us"
 title = "Tasteful by Traci"
 theme="tt"
