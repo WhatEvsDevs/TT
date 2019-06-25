@@ -138,7 +138,7 @@ formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
 [params.contact]
 enable = true
-title= "our <span> Contact Us </span>"
+title= "<span> Contact Us </span>"
 subtitle= "SIGN UP FOR EMAIL ALERTS"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
