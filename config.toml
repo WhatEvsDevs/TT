@@ -96,7 +96,7 @@ img = "images/slider/slider-img-1.jpg"
 [params.about]
 enable = true
 title= "Tasteful <span>Transformations</span>"
-bgImage = "images/cooker-img.png"
+bgImage = "images/cooker-img.jpg"
 description = "I organise kitchens, bathrooms, and laundry spaces. For the spring, for the winter, if you're selling or if you're buying. <br /> I help simplify and inspire through tidying."
 description1 = "<br /><br /> For more information about how I can help you, just give me a call! 01234-5678910"
 
