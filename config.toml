@@ -71,22 +71,22 @@ title= "Featured <span>Gallery</span>"
 img = "images/slider/slider-img-1.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-2.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/slider-img-3.jpg"
-
-[[params.gallery.item]]
-img = "images/slider/slider-img-4.jpg"
+img = "images/slider/slider-img-1.jpg"
 
 [[params.gallery.item]]
 img = "images/slider/slider-img-1.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-2.jpg"
+img = "images/slider/slider-img-1.jpg"
 
 [[params.gallery.item]]
-img = "images/slider/slider-img-3.jpg"
+img = "images/slider/slider-img-1.jpg"
+
+[[params.gallery.item]]
+img = "images/slider/slider-img-1.jpg"
+
+[[params.gallery.item]]
+img = "images/slider/slider-img-1.jpg"
 
 
 # -------------------------------- #
