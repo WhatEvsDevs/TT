@@ -64,8 +64,8 @@ url =  "images/header.jpg"
 ## Gallery Items
 
 [params.gallery]
-enable = false
-title= "Featured <span>Products</span>"
+enable = true
+title= "Featured <span>Gallery</span>"
 
 [[params.gallery.item]]
 img = "images/slider/slider-img-1.jpg"
