@@ -106,7 +106,7 @@ description1 = "<br /><br /> For more information about how I can help you, just
 
 [params.testimonials]
 enable = true
-title = "Testimonials"
+title = "Customer <span>Testimonials</span>"
 
 # -------------------------------- #
 
