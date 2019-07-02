@@ -1,11 +1,19 @@
+
+# ------------- #
+# `config.toml` #
+# ------------- #
+
 baseURL = "https://tasteful.netlify.com/"
 languageCode = "en-us"
-title = "Tasteful by Traci"
+
+title = "Tasteful Transfermations"
 theme="tt"
 summaryLength = "7"
 
+# -------------------------------- #
 
-# Menu
+# Main Menu Nav Items
+
 [menu]
 	
 	[[menu.nav]]
@@ -38,7 +46,7 @@ summaryLength = "7"
     URL = "contact-us"
     weight = 6
 
-
+# -------------------------------- #
 
 # Global Settings
 [params]
@@ -51,7 +59,9 @@ enable = true
 url =  "images/header.jpg"
 
 
-#gallery item
+# -------------------------------- #
+
+## Gallery Items
 
 [params.gallery]
 enable = true
@@ -79,6 +89,10 @@ img = "images/slider/slider-img-2.jpg"
 img = "images/slider/slider-img-3.jpg"
 
 
+# -------------------------------- #
+
+## About Section
+
 [params.about]
 enable = true
 title= "<span>Tasteful</span> by Traci"
@@ -86,7 +100,10 @@ bgImage = "images/cooker-img.png"
 description = "I organise kitchens, bathrooms, and laundry spaces. For the spring, for the winter, if you're selling or if you're buying. <br /> I help simplify and inspire through tidying."
 description1 = "<br /><br /> For more information about how I can help you, just give me a call! 01234-5678910"
 
-#food Menu
+
+# -------------------------------- #
+
+## Food Menu Section
 
 [params.foodMenu]
 enable = true
@@ -119,20 +136,22 @@ title="Pancakes n' Such"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 25.00"
 
+# -------------------------------- #
 
-
-#subscription
+## Subscription Section
 
 [params.subscription]
 enable = true
 title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
-#Mailchimp subscription configaration 
+### Mailchimp subscription configaration 
 formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
 formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
-#Contact 
+# -------------------------------- #
+
+## Contact Section 
 
 [params.contact]
 enable = true
@@ -141,7 +160,7 @@ subtitle= "SIGN UP FOR EMAIL ALERTS"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
 
-#Footer 
+## Footer Section 
 
 [params.footer]
 enable = true
@@ -182,18 +201,24 @@ link = "https://fb.com/themefisher"
 icon = "instagram"
 link = "https://fb.com/themefisher"
 
+# -------------------------------- #
 
-#Footer Copyright
+## Footer Copyright Text
 
-#Footer Copyright Text
 [params.footerCopyright]
 enable = false
 Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
 
+# -------------------------------- #
+
+## Testimonials Section
 
 [params.testimonials]
 enable = true
 title = "\" . . . \""
+
+
+# -------------------------------- #
 
 #blog 
 #[params.blog]
@@ -201,10 +226,5 @@ title = "\" . . . \""
 #title = "Latest <span>From</span> the <span>Blog</span>"
 
 
-
-
-
-
-
-
+# EOF #
 
