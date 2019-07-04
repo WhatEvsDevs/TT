@@ -7,18 +7,21 @@ Colours(based off 100% values):
 
 Motto: 'with my strength and wisdom i create serenity'
 
+Official Name: "Tasteful Transformations by Traci"
+
 #TO DO List for TT Website
 Tasteful Transformations Graphic to replace txt
   -Dimensions 189x28
 
 ##Home
- [ ] update pics in the 'featured gallery'
+ [ ] link pics in the 'featured gallery' to pinterest
 
 
 ##ABOUT
  [ ] insert picture of Traci
  [ ] update phone number provided
  [ ] insert email address
+ [ ] ADD motto
 
 ##TESTIMONIALS
  [ ] remove images from cards
