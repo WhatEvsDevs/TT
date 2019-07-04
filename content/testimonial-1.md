@@ -1,7 +1,7 @@
 ---
 title: "Testimonial One"
 date: 2019-07-04
-image: images/testimonials/blog-img-1.jpg
+image: images/testimonials/testimonial-img-1.jpg
 type: "post"
 ---
 
