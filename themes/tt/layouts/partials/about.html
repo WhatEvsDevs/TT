@@ -5,12 +5,12 @@
             <div class="col-md-12">
                 <div class="block">
                     <img src="{{ .Site.Params.about.bgImage | absURL }}" alt="Logo" />
-                    <h1 class="heading wow fadeInUp" data-wow-duration="400ms" data-wow-delay="500ms" >
+                    <h1 class="heading wow fadeInUp" data-wow-duration="400ms" data-wow-delay="500ms">
                         {{ with .Site.Params.about.title }} {{ . | safeHTML }} {{ end }}
                     </h1>
                     <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="600ms">
                         <h2>{{ with .Site.Params.about.description }} {{ . | safeHTML }} {{ end }}</h2>
-                        <h4>{{ with .Site.Params.about.description1 }} {{ . | safeHTML }} {{ end }}</h4>
+                        <h4>{{ with .Site.Params.about.subdescription }} {{ . | safeHTML }} {{ end }}</h4>
                     </p>
                 </div>
             </div>
