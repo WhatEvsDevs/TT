@@ -58,7 +58,6 @@ enable = true
 [params.heroImg ] 
 url =  "images/header.jpg"
 
-
 # -------------------------------- #
 
 ## Gallery Items
@@ -88,6 +87,8 @@ img = "images/slider/slider-img-1.jpg"
 [[params.gallery.item]]
 img = "images/slider/slider-img-1.jpg"
 
+[[params.gallery.item]]
+img = "images/slider/slider-img-1.jpg"
 
 # -------------------------------- #
 
@@ -123,20 +124,20 @@ title="Pancakes n' Such Titas"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 125.00"
 
-[[params.foodMenu.item]]
-title="Caesar Salad"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 100.00"
+# [[params.foodMenu.item]]
+# title="Caesar Salad"
+# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+# price = "$ 100.00"
 
-[[params.foodMenu.item]]
-title="Steak with a Garlic and Parsley Risotto"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 20.00"
+# [[params.foodMenu.item]]
+# title="Steak with a Garlic and Parsley Risotto"
+# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+# price = "$ 20.00"
 
-[[params.foodMenu.item]]
-title="Meat of Skewers"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 45.00"
+# [[params.foodMenu.item]]
+# title="Meat of Skewers"
+# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+# price = "$ 45.00"
 
 # [[params.foodMenu.item]]
 # title="Pancakes n' Such"
@@ -149,10 +150,10 @@ price = "$ 45.00"
 
 [params.subscription]
 enable = true
-title= "SUBSCRIBE to our <span>NEWSLETTER</span>"
+title= "Subscribe to our <span>Newsletter</span>"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
-### Mailchimp subscription configaration 
+### Mailchimp subscription configuration 
 formAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
 formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
@@ -162,7 +163,7 @@ formName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 
 [params.contact]
 enable = true
-title= "<span> Contact Us </span>"
+title= "<span>Contact Us</span>"
 subtitle= "SIGN UP FOR EMAIL ALERTS"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
@@ -213,7 +214,7 @@ link = "https://fb.com/themefisher"
 ## Footer Copyright Text
 
 [params.footerCopyright]
-enable = false
+enable = true
 Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
 
 # -------------------------------- #
