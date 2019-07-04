@@ -49,8 +49,9 @@ summaryLength = "7"
 # -------------------------------- #
 
 # Global Settings
-[params]
-logo = "images/logo.png"
+
+# [params]
+# logo = "images/logo.png"
 
 
 [params.heroArea]
@@ -158,13 +159,14 @@ title= "<span>Contact Us</span>"
 subtitle= "SIGN UP FOR EMAIL ALERTS"
 description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 
+# -------------------------------- #
 
 ## Footer Section 
 
 [params.footer]
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+# blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow <span>US</span>"
 
