@@ -111,38 +111,29 @@ title = "Customer <span>Testimonials</span>"
 
 # -------------------------------- #
 
-## Food Menu Section
+## Price Section
 
-[params.foodMenu]
+[params.price]
 enable = true
 title = "Our Easy <span>PRICE</span>"
 description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-subtitle = "FEATURED ON THE WEEK"
+subtitle = "FEATURED THIS WEEK"
 
-[[params.foodMenu.item]]
-title="Pancakes n' Such Titas"
+[[params.price.item]]
+title = "Item One"
+description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+price = "$ 100.00"
+
+[[params.price.item]]
+title = "Item Two"
 description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
 price = "$ 125.00"
 
-# [[params.foodMenu.item]]
-# title="Caesar Salad"
-# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-# price = "$ 100.00"
+[[params.price.item]]
+title = "Item Three"
+description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
+price = "$ 150.00"
 
-# [[params.foodMenu.item]]
-# title="Steak with a Garlic and Parsley Risotto"
-# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-# price = "$ 20.00"
-
-# [[params.foodMenu.item]]
-# title="Meat of Skewers"
-# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-# price = "$ 45.00"
-
-# [[params.foodMenu.item]]
-# title="Pancakes n' Such"
-# description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-# price = "$ 25.00"
 
 # -------------------------------- #
 
@@ -215,14 +206,11 @@ link = "https://fb.com/themefisher"
 
 [params.footerCopyright]
 enable = true
-Text = "Copyright 2019 - All Rights Reserved.Design and Developed By Themefisher.com"
+Text = "Copyright 2019 - All Rights Reserved."
+
+# Design and Developed By Themefisher.com"
 
 # -------------------------------- #
-
-#blog 
-#[params.blog]
-#enable = true
-#title = "Latest <span>From</span> the <span>Blog</span>"
 
 
 # EOF #
