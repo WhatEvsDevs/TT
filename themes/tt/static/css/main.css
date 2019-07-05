@@ -458,38 +458,39 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 
 /*--
-    price Start
+    process Start
 --*/
-#price {
+#process {
 	padding: 70px 0px;
+	background: #FFFBED;
 }
-#price .block > p {
+#process .block > p {
 	color: #9d9d9d;
 	font-size: 16px;
 	line-height: 26px;
 	padding: 40px 133px 0;
 	text-align: center;
 }
-#price .block .pricing-list {
+#process .block .pricing-list {
 	padding-top: 85px;
 }
-#price .block .pricing-list ul {
+#process .block .pricing-list ul {
 	padding: 0 0 30px;
 	margin: 0;
 }
-#price .block .pricing-list ul li {
+#process .block .pricing-list ul li {
 	padding: 21px 0px;
 }
-#price .block .pricing-list ul li .item .item-title {
+#process .block .pricing-list ul li .item .item-title {
 	position: relative;
 }
-#price .block .pricing-list ul li .item .item-title h2 {
+#process .block .pricing-list ul li .item .item-title h2 {
 	display: inline-block;
 	position: relative;
 	z-index: 99;
 	background: #FFFBED;
 }
-#price .block .pricing-list ul li .item .item-title .border-bottom {
+#process .block .pricing-list ul li .item .item-title .border-bottom {
 	position: absolute;
 	top: 0;
 	width: 100%;
@@ -497,15 +498,15 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	border: 1px dotted #c9c9c9;
 	margin-top: 20px;
 }
-#price .block .pricing-list ul li .item .item-title span {
+#process .block .pricing-list ul li .item .item-title span {
 	float: right;
 	color: #938463;
 }
-#price .block .pricing-list ul li .item p {
+#process .block .pricing-list ul li .item p {
 	padding: 12px 0 0px;
 	color: #949494;
 }
-#price .block .pricing-list .btn {
+#process .block .pricing-list .btn {
 	padding: 28px 105px;
 	border-radius: 0px;
 	background: none;
@@ -518,7 +519,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	-o-transition: 0.3s all;
 	transition: 0.3s all;
 }
-#price .block .pricing-list .btn:hover {
+#process .block .pricing-list .btn:hover {
 	background: #00C2FF;
 	color: #FFFBED;
 }
@@ -637,6 +638,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 --*/
 #contact-us {
 	padding: 70px 0px;
+	background: #FFFBED;
 }
 #contact-us .block .title {
 	padding: 20px 0;

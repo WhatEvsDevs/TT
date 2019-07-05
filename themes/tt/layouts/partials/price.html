@@ -1,28 +1,28 @@
-{{ if .Site.Params.price.enable }}
+{{ if .Site.Params.process.enable }}
 
-<section id="price">
+<section id="process">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="block">
                     <h1 class="heading wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
-                        {{ with .Site.Params.price.title }} {{ . | safeHTML }} {{ end }}
+                        {{ with .Site.Params.process.title }} {{ . | safeHTML }} {{ end }}
                     </h1>
                     <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-                        {{ with .Site.Params.price.description }} {{ . }} {{ end }}
+                        {{ with .Site.Params.process.description }} {{ . }} {{ end }}
                     </p>
                     <div class="pricing-list">
                         <div class="title">
-                            <h3>{{ with .Site.Params.price.subtitle }} {{ . }} {{ end }}</h3>
+                            <h3>{{ with .Site.Params.process.subtitle }} {{ . }} {{ end }}</h3>
                         </div>
                         <ul>
-                            {{ range $.Site.Params.price.item }}
+                            {{ range $.Site.Params.process.item }}
                             <li class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
                                 <div class="item">
                                     <div class="item-title">
                                         <h2>{{.title}}</h2>
                                         <div class="border-bottom"></div>
-                                        <span>{{.price}}</span>
+                                        <span>{{.process}}</span>
                                     </div>
                                     <p>{{.description}}</p>
                                 </div>
@@ -34,6 +34,6 @@
             </div><!-- .col-md-12 close -->
         </div><!-- .row close -->
     </div><!-- .container close -->
-</section><!-- #price close -->
+</section><!-- #process close -->
 
 {{end}}

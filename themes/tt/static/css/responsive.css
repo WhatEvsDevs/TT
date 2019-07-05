@@ -74,12 +74,12 @@ px      68    160    252    344    436    528    620    712    */
     border-radius: 10px;
   }
   /*--
-    price Start
+    process Start
 --*/
-  #price .block p {
+  #process .block p {
     padding: 30px 0 0;
   }
-  #price .block .pricing-list {
+  #process .block .pricing-list {
     text-align: left;
   }
   /*--
@@ -270,26 +270,26 @@ px      68    160    252    */
     border-radius: 10px;
   }
   /*--
-    price Start
+    process Start
 --*/
-  #price .block p {
+  #process .block p {
     padding: 40px 0px 0px;
   }
-  #price .block .pricing-list {
+  #process .block .pricing-list {
     text-align: left;
   }
-  #price .block .pricing-list ul li .item {
+  #process .block .pricing-list ul li .item {
     float: none;
   }
-  #price .block .pricing-list ul li .item .item-title .border-bottom {
+  #process .block .pricing-list ul li .item .item-title .border-bottom {
     display: none;
   }
-  #price .block .pricing-list ul li .item .item-title span {
+  #process .block .pricing-list ul li .item .item-title span {
     padding-top: 10px;
     display: block;
     float: none;
   }
-  #price .block .pricing-list .btn {
+  #process .block .pricing-list .btn {
     float: inherit;
     padding: 28px 100px;
   }

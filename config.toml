@@ -32,8 +32,8 @@ summaryLength = "7"
     weight = 3
 
     [[menu.nav]]
-    name = "Price"
-    URL = "price"
+    name = "Process"
+    URL = "process"
     weight = 4
 
     [[menu.nav]]
@@ -97,9 +97,9 @@ img = "images/slider/slider-img-1.jpg"
 
 [params.about]
 enable = true
-title= "Tasteful <span>Transformations</span>"
+title= "Traci's <span>Vision</span>"
 bgImage = "images/avatar-img.jpg"
-description = "Through Strength and Wisdom I create Serenity.  We all have areas of the home that tend to bring us down.  Either through clutter, disorganisation or old memories that we know it's time to part with. I come in, offer some suggestions, and together we will make your areas inspiring, new, and refreshing. Or, if you are relocating, I can help transform your new house into a welcoming home"
+description = "Through Strength and Wisdom I create Serenity.  We all have areas of the home that tend to bring us down.  Either through clutter, disorganisation or old memories that we know it's time to part with. I come in, offer some suggestions, and together we will make your areas inspiring, new, and refreshing. Or, if you are relocating, I can help transform your new house into a welcoming home!"
 
 
 # -------------------------------- #
@@ -112,28 +112,27 @@ title = "Customer <span>Testimonials</span>"
 
 # -------------------------------- #
 
-## Price Section
+## Process Section
 
-[params.price]
+[params.process]
 enable = true
-title = "Our Easy <span>PRICE</span>"
-description= " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-subtitle = "FEATURED THIS WEEK"
+title = "Our Easy <span>Process</span>"
+description= " Through my easy three-step process, I provide a service which transforms kitchens, bathrooms, and laundries into well-organised spaces that help you enjoy spending time in your home."
 
-[[params.price.item]]
-title = "Item One"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 100.00"
+[[params.process.item]]
+title = "Step One: Consultation"
+description= "My services begin with an in-home consultation where we make a plan catered to your needs and lifestyle. We determine which spaces need a touch of love, which spaces are most important to you, and how involved you would like to be in the transformation process."
+#price = "$ 100.00"
 
-[[params.price.item]]
-title = "Item Two"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 125.00"
+[[params.process.item]]
+title = "Step Two: Visualisation"
+description= "After we have a basic plan, we move into the visualisation stage. Here we begin by using various forms of media to illustrate your ideal space. After careful consideration of your 'must-haves' we will agree on a budget so that we can begin transforming your visualisation into a realisation!"
+#price = "$ 125.00"
 
-[[params.price.item]]
-title = "Item Three"
-description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-price = "$ 150.00"
+[[params.process.item]]
+title = "Step Three: Realisation"
+description= "We conclude our transformation process by bringing your expectations to reality. Here I will purchase anything from spices and detergents to pans and appliances for your new space. All organisation and installation of any new products will be done for you so that you can dive into loving your new space!"
+#price = "$ 150.00"
 
 
 # -------------------------------- #
