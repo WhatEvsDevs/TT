@@ -47,7 +47,7 @@ The testimonial should pop - it should be in darker, larger font than the review
 
 
 ##CONTACT US
-Phone:  +6421686887
+Phone:  +64 21 686 887
 Email: tastefultransformations.nz@gmail.com
 Pinterest: N/A (to do)
 Facebook: N/A (to do)

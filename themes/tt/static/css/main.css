@@ -152,7 +152,7 @@ nav {
 }
 nav .block {
 	margin-top: -85px;
-	background: #fff;
+	background: #FFFBED;
 	padding: 25px 40px;
 	background: rgba(255, 255, 255, 0.89);
 }
@@ -272,7 +272,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 --*/
 #about-us {
 	padding: 100px 0px;
-	background: #f6f6f6;
+	background: #FFFBED;
 }
 #about-us .block {
 	text-align: center;
@@ -308,7 +308,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	opacity: 0.3;
 }
 #testimonials .block .heading {
-	color: #fff;
+	color: #FFFBED;
 }
 #testimonials .block ul {
 	padding-top: 40px;
@@ -317,7 +317,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	overflow: hidden;
 	width: 49.5%;
 	float: left;
-	background: #fff;
+	background: #FFFBED;
 	text-align: center;
 	color: #959595;
 	transform: 1s;
@@ -363,7 +363,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	float: left;
 	width: 50%;
 	height: 100%;
-	background: A8EAFF;
+	background: #A8EAFF;
 	overflow: hidden;
 }
 #testimonials .block ul li .testimonials-img img {
@@ -401,7 +401,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	width: 30px;
 	height: 30px;
 	margin-top: -15px;
-	background: #fff;
+	background: #FFFBED;
 	transform: rotate(45deg);
 	margin-left: -15px;
 }
@@ -421,7 +421,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	width: 30px;
 	height: 30px;
 	margin-top: 0px;
-	background: #fff;
+	background: #FFFBED;
 	transform: rotate(45deg);
 }
 #testimonials .block .btn-more-info {
@@ -429,7 +429,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	padding: 28px 102.5px;
 	border-radius: 0px;
 	background: #00C2FF;
-	color: #fff;
+	color: #FFFBED;
 	border: 1px solid transparent;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -487,7 +487,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	display: inline-block;
 	position: relative;
 	z-index: 99;
-	background: #fff;
+	background: #FFFBED;
 }
 #price .block .pricing-list ul li .item .item-title .border-bottom {
 	position: absolute;
@@ -520,7 +520,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #price .block .pricing-list .btn:hover {
 	background: #00C2FF;
-	color: #fff;
+	color: #FFFBED;
 }
 /*--
     subscribe Start
@@ -533,10 +533,10 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	margin: 0 auto;
 }
 #mc_embed_signup .mc-field-group label {
-	color: #fff;
+	color: #FFFBED;
 }
 #mc_embed_signup .mc-field-group input.email {
-	background: #fff;
+	background: #FFFBED;
 	opacity: 0.9;
 	border: none;
 	height: 65px;
@@ -556,7 +556,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	border: none;
 	border-radius: 0px;
 	background: #00C2FF;
-	color: #fff;
+	color: #FFFBED;
 	font-weight: 600;
 	font-size: 16px;
 	letter-spacing: 2px;
@@ -569,7 +569,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #mc_embed_signup .button {
 }
 .subscription-form #mc_embed_signup #mce-success-response {
-	color: #fff;
+	color: #FFFBED;
 }
 
 #subscribe {
@@ -593,16 +593,16 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	opacity: 0.3;
 }
 #subscribe .block h1.heading {
-	color: #fff;
+	color: #FFFBED;
 }
 #subscribe .block p {
 	padding: 25px 0px;
-	color: #fff;
+	color: #FFFBED;
 	font-size: 18px;
 }
 #subscribe .block form .form-control {
 	width: 450px;
-	background: #fff;
+	background: #FFFBED;
 	opacity: 0.9;
 	border: none;
 	height: 65px;
@@ -620,7 +620,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	border: none;
 	border-radius: 0px;
 	background: #00C2FF;
-	color: #fff;
+	color: #FFFBED;
 	font-weight: 600;
 	font-size: 16px;
 	letter-spacing: 2px;
@@ -669,7 +669,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #contact-us .block a {
 	background: #00C2FF;
 	float: right;
-	color: #fff;
+	color: #FFFBED;
 	font-weight: 600;
 	text-transform: uppercase;
 	border-radius: 0px;
@@ -775,14 +775,14 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 	padding-top: 8px;
 	border-radius: 100%;
 	background: #b0b0b0;
-	color: #ffffff;
+	color: #FFFBED;
 	-webkit-transition: 0.3s all;
 	-o-transition: 0.3s all;
 	transition: 0.3s all;
 }
 #footer .block .social-media-link ul li a:hover {
 	background: #00C2FF;
-	color: #fff;
+	color: #FFFBED;
 }
 /*--
     footer-bottom Start

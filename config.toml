@@ -6,7 +6,7 @@
 baseURL = "https://tasteful.netlify.com/"
 languageCode = "en-us"
 
-title = "Tasteful Transformations"
+title = "TT by Traci"
 theme="tt"
 summaryLength = "7"
 
@@ -99,8 +99,8 @@ img = "images/slider/slider-img-1.jpg"
 enable = true
 title= "Tasteful <span>Transformations</span>"
 bgImage = "images/avatar-img.jpg"
-description = "I organise kitchens, bathrooms, and laundry spaces. For the spring, for the winter, if you're selling or if you're buying. <br /> I help simplify and inspire through tidying."
-subdescription = "<br /><br /> For more information about how I can help you, just give me a call! 01234-5678910"
+description = "Through Strength and Wisdom I create Serenity.  We all have areas of the home that tend to bring us down.  Either through clutter, disorganisation or old memories that we know it's time to part with. I come in, offer some suggestions, and together we will make your areas inspiring, new, and refreshing. Or, if you are relocating, I can help transform your new house into a welcoming home"
+
 
 # -------------------------------- #
 
@@ -173,17 +173,17 @@ socialTitle = "Follow <span>US</span>"
 [[params.footer.contactItem]]
 title="Telephone"
 icon = "fa fa-phone"
-content = "012345 678910"
+content = "Traci Holzheimer: +64 21 686 887"
 
-[[params.footer.contactItem]]
-title="Address"
-icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+# [[params.footer.contactItem]]
+# title="Address"
+# icon = "fa fa-map-marker"
+# content = "2046 Blue Spruce Lane Laurel Canada"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@e.mail"
+content = "Traci Holzheimer: tastefultransformations.nz@gmail.com"
 
 [[params.footer.socialLink]]
 icon = "facebook"
